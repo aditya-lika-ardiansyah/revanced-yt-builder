@@ -1,0 +1,8 @@
+[Tiktok]
+build-mode = "apk"
+patches-source = "revanced/revanced-patches"
+integrations-source = "revanced/revanced-integrations"
+cli-source = "inotia00/revanced-cli"
+excluded-patches = ""
+version = "32.5.3"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/tiktok-pte-ltd/tik-tok-including-musical-ly/"
